@@ -12,9 +12,11 @@ Chatbot applications streamline interactions between people and services, enhanc
 
 Chatbots, like regular applications, have application layers, databases, conversational user interfaces (CUIs) and APIs. There are 3 common kinds of a chatbot available today:
 
->> Rule-based chatbots: The most straightforward option, these bots simply provide a pre-defined answer to very specific questions. These bots are great for things like qualifying leads or offering customers an interactive FAQ experience
->> Intelligent chatbots: These intelligent bots use machine learning or “ML” to learn from the user’s requests and information. Intellectual bots are trained to understand specific words and phrases that trigger a reply. They teach themselves over time to understand more questions and deliver better answers
->> AI-powered chatbots: These bots combine the benefits of rule-based bots with the power of intellectually independent programs to solve user problems. They can remember the context of conversations and understand user preferences. These bots use a combination of natural language processing, machine learning, and AI to understand customers. Natural language processing helps the interactions between humans and computers to feel more natural
+>> Rule-based chatbots: The most straightforward option, these bots simply provide a pre-defined answer to very specific questions. These bots are great for things like qualifying leads or offering customers an interactive FAQ experience.
+
+>> Intelligent chatbots: These intelligent bots use machine learning or “ML” to learn from the user’s requests and information. Intellectual bots are trained to understand specific words and phrases that trigger a reply. They teach themselves over time to understand more questions and deliver better answers.
+
+>> AI-powered chatbots: These bots combine the benefits of rule-based bots with the power of intellectually independent programs to solve user problems. They can remember the context of conversations and understand user preferences. These bots use a combination of natural language processing, machine learning, and AI to understand customers. Natural language processing helps the interactions between humans and computers to feel more natural.
 
 # 📈 How do Bots and Chatbots Work?
 
